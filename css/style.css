@@ -1,0 +1,15 @@
+/* element selector */
+/* referensi web colorhunt.co */
+body{
+    background-color: #853953;
+    color: white;
+    font-family: Verdana;
+
+}
+.txt-center{text-align: center;}
+.bg-warning{background-color: aquamarine; border-radius: 20px 0px 20px 0px;}
+.txt-white{color: white;}
+.p-1 {padding: 500px;} 
+.slmt{
+    font-family: ;
+}
